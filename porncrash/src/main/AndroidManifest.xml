@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.romanstein.porncrash" >
+
+    <application
+        android:hardwareAccelerated="true">
+
+        <activity android:name=".PornWebViewActivity"/>
+
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>

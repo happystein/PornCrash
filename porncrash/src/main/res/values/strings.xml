@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PornCrash</string>
+    <string name="restart_app">Restart App</string>
+    <string name="webview_title">App is crashed!</string>
+</resources>
